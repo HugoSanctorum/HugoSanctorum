@@ -4,3 +4,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoSanctorum&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HugoSanctorum&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LinkedInBadge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hugo-sanctorum)
